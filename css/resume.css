@@ -1,12 +1,34 @@
 body {
 	background-color: white;
 	margin:0 10px;
+	font-family: "Times New Roman", times, serif
 }
 
 h3 {
 	color:black;
+	font-style: oblique;
 }
 
-section.personal{
+section.name{
 	color: black
+}
+
+section.addresses{
+	color:black;
+}
+
+section.education{
+	color:black;
+}
+
+section.experience{
+	color:black;
+}
+
+section.activities{
+	color:black;
+}
+
+section.skills{
+	color:black;
 }
