@@ -7,6 +7,7 @@ body {
 h3 {
 	color:black;
 	font-style: oblique;
+	text-decoration: underline;
 }
 
 section.name{
